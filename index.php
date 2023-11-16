@@ -37,7 +37,7 @@
                         <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php?page=cart_list"><span> <span class="badge badge-danger item_count">0</span> <i class="fa fa-shopping-cart"></i>  </span>Cart</a></li> -->
 
 
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="https://mehulkr9.github.io/Check-Rank/">Check Rank</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="https://chandanraj1951.github.io/bug-tracker/">Track Bug</a></li>
 
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php?page=about">About</a></li>
 

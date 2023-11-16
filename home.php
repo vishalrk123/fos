@@ -12,6 +12,16 @@
                 </div>
             </div>
         </header>
+
+
+        <section class="page-section">
+        <div class="container">
+    <?php echo html_entity_decode($_SESSION['setting_about_content']) ?>        
+            
+        </div>
+        </section>
+
+
 	<section class="page-section" id="menu">
         <div id="menu-field" class="card-deck">
                 <?php 
@@ -36,6 +46,7 @@
                     <?php endwhile; ?>
         </div>
     </section>
+    
     <script>
         
         $('.view_prod').click(function(){
