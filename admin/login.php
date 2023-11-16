@@ -78,7 +78,7 @@ $query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
   <main id="main" class=" bg-dark">
   		<div id="login-left">
   			<div class="logo">
-  				<img src="../assets/img/sample_logo.jpg" alt="">
+  				<img src="../assets/img/sample_logo.jpeg" alt="">
   			</div>
   		</div>
   		<div id="login-right">
